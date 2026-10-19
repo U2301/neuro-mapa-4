@@ -1,0 +1,8 @@
+{
+  "name": "Remix Neuro anato M4",
+  "description": "Plataforma de estudio interactiva del Desarrollo Ontogenético del Sistema Nervioso: Embriogénesis, Láminas germinales, Tubo Neural, Vesículas encefálicas, Neurodesarrollo celular y Trastornos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
